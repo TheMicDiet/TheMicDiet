@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a software engineer for a telco company.  I like to play around with new technologies. Lately, I am getting more into AI and setting up a dark factory.
+I'm currently working as a software engineer for a telco company.  I like to play around with new technologies. Lately, I am getting more into AI and setting up a software factory.
 <!--
 **TheMicDiet/TheMicDiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
